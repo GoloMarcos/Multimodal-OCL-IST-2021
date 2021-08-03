@@ -5,4 +5,4 @@
 
 [ ! -f "datasets/TEN.plk" ] && echo "Downloading TEN" && gdown --id link_to_TEN -O "datasets/TEN.plk"
 
-# These datasets are private and may only be used for academic purposes. We got the link to the datasets by contacting their servants. So, if you want the link to the datasets, please contact their creators.
+# These datasets are private and may only be used for academic purposes. We got the link to the datasets by contacting their owners. So, if you want the link to the datasets, please contact them.

@@ -1,5 +1,5 @@
 # Detecting Relevant App Reviews for Software Evolution and Maintenance through Multimodal One-Class Learning
-- Marcos Gôlo (ICMC/USP) | marcosgolo@usp.br
+- Marcos Gôlo (ICMC/USP) | marcosgolo@usp.br (corresponding author)
 - Adailton Ferreira Araujo (ICMC/USP) | adailton.araujo@usp.br
 - Rafael Rossi (UFMS) | rafael.g.rossi@ufms.br
 - Ricardo Marcacini (ICMC/USP) | ricardo.marcacini@icmc.usp.br
@@ -24,8 +24,11 @@
 # Critical Diference
 ![Results](/images/nemenyi.png)
 
-# Files
-
+# File Organization
+- Pipfiles: contains the versions of the libraries used
+- Best Results: different organizations of the best results of each method in each of the scenarios
+- Results: total results of each method in each scenario considering all parameters used
+- Codes: source codes used for the study experiments
 
 
 

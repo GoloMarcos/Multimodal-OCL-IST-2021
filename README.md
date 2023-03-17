@@ -8,7 +8,7 @@
 
 If you use any part of this code in your research, please cite it using the following BibTex entry
 ```latex
-@article{golo2022detecting,
+@article{ref:Golo2022,
   title={Detecting relevant app reviews for software evolution and maintenance through multimodal one-class learning},
   author={Gôlo, Marcos PS and Araújo, Adailton F and Rossi, Rafael G and Marcacini, Ricardo M},
   journal={Information and Software Technology},

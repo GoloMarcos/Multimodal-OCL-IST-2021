@@ -4,6 +4,21 @@
 - Rafael Rossi (UFMS) | rafael.g.rossi@ufms.br
 - Ricardo Marcacini (ICMC/USP) | ricardo.marcacini@icmc.usp.br
 
+# Citing:
+
+If you use any part of this code in your research, please cite it using the following BibTex entry
+```latex
+@article{golo2022detecting,
+  title={Detecting relevant app reviews for software evolution and maintenance through multimodal one-class learning},
+  author={Gôlo, Marcos PS and Araújo, Adailton F and Rossi, Rafael G and Marcacini, Ricardo M},
+  journal={Information and Software Technology},
+  volume={151},
+  pages={106998},
+  year={2022},
+  publisher={Elsevier}
+}
+```
+
 # Abstract
 - **Context**: Mobile app reviews are a rich source of information for software evolution and maintenance. Several studies have shown the effectiveness of exploring relevant reviews in the software development lifecycle, such as release planning and requirements engineering tasks. Popular apps receive even millions of reviews, thereby making manual extraction of relevant information an impractical task. The literature presents several machine learning approaches to detect relevant reviews. However, these approaches use multi-class learning, implying more user effort for data labeling since users must label a significant set of relevant and irrelevant reviews. 
 
